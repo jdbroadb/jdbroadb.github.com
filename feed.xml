@@ -15,9 +15,6 @@ permalink: /rss/
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        {% if post.author %}
-					<dc:creator>{{ post.author | xml_escape }}</dc:creator>
-				{% endif %}
         {% assign url = {{ post.url | prepend: site.baseurl | prepend: site.url }} %}
         {% assign permalink1 = '<div><a href=' %}
         {% assign permalink2 = '>Permalink</a></div>'  %}
