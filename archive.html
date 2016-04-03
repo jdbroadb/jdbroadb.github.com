@@ -1,0 +1,27 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+
+<div class="home">
+
+  {% assign prevMon = "" %}
+  {% for post in site.posts %}
+      <div>
+        {% capture curMon %} {{ post.date | date: "%m" }} {% endcapture %}
+        {% capture MonthYear %} {{ post.date | date: "%b %Y" }} {% endcapture %}
+
+        {% if prevMon != curMon %}
+          {% assign prevMon = curMon %}
+          <h2>{{ MonthYear }}</h2>
+        {% endif %}
+
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <div class="datestamp">
+            {{ post.date | date_to_long_string }}
+        </div>
+      </div>
+  {% endfor %}
+
+</div>

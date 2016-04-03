@@ -1,7 +1,8 @@
-%% Title: Resources
-%% Date: 2013-03-15 08:37 PM
-%% Type: Special
-%% Slug: resources
+---
+layout: page
+title: Resources
+permalink: /resources/
+---
 
 Here is a complete list of all the resources I'm using on a routine basis. I'm always looking for new ones so please feel free to share if you have some good ones. < Disclosure: some of the links are [affiliate links](/affiliate-disclaimer) >
 
