@@ -16,8 +16,13 @@ permalink: /rss/
       <item>
         <title>{{ post.title | xml_escape }}</title>
         {% assign url = {{ post.url | prepend: site.baseurl | prepend: site.url }} %}
-        {% assign permalink = "<div><a href="{{ url }}">Permalink</a></div>" %}
-        <description>{{ post.content | xml_escape }}{% if post.link %}{{ permalink | xml_escape }}{% endif %}</description>
+        {% assign permalink = '<div><a href="{{ url }}">Permalink</a></div>' %}
+        <description>
+          {{ post.content | xml_escape }}
+          {% if post.link %}
+            {{ permalink | xml_escape }}
+          {% endif %}
+        </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         {% if post.link %}
           <link>{{ post.link }}</link>
