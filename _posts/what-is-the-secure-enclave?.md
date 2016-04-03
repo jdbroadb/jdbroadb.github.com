@@ -1,0 +1,9 @@
+%% Title:  What Is the Secure Enclave?
+%% Date: 2016-02-19 10:15 PM
+%% Type: Blog
+%% Slug: what-is-the-secure-enclave?
+%% Url:  https://mikeash.com/pyblog/friday-qa-2016-02-19-what-is-the-secure-enclave.html
+
+>  The Secure Enclave contains its own UID and hardware AES engine. The passcode verification process takes place here, separated from the rest of the system. The Secure Enclave also handles Touch ID fingerprint processing and matching, and authorizing payments for Apple Pay.
+
+Great overview of what's known about the Secure Enclave, what isn't, and why it matters based on the recent FBI/Apple news. 
