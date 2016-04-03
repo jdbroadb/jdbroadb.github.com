@@ -16,7 +16,7 @@ permalink: /rss/
       <item>
         <title>{{ post.title | xml_escape }}</title>
         {% if post.author %}
-					<dc:creator>{{ post.author | xml_escape }}</dc:creator>
+					<author>{{ post.author | xml_escape }}</author>
 				{% endif %}
         {% assign url = {{ post.url | prepend: site.baseurl | prepend: site.url }} %}
         {% assign permalink1 = '<div><a href=' %}
