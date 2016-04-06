@@ -18,6 +18,8 @@ github_username:  jdbroadb
 # Build settings
 markdown: kramdown
 
+permalink: /:year/:month/:day/:title
+
 defaults:
   -
     scope:
