@@ -1,8 +1,8 @@
-%% Title: Repurposing the Titanic
-%% Date: 2014-10-24 11:43 PM
-%% Type: Blog
-%% Slug: repurposing-the-titanic
-%% Url: http://carpeaqua.com/2014/10/24/repurposing-the-titanic/
+---
+ title: Repurposing the Titanic
+date: 2014-10-24 11:43 PM
+link: http://carpeaqua.com/2014/10/24/repurposing-the-titanic/
+---
 
 ## Justin Williams
 

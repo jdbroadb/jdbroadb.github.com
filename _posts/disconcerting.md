@@ -1,7 +1,7 @@
-%% Title: Disconcerting
-%% Date: 2014-09-15 10:19 AM
-%% Type: Blog
-%% Slug: disconcerting
+---
+title: Disconcerting
+date: 2014-09-15 10:19 AM
+---
 
 ![UP24 Battery](../Images/Screenshot 2014-09-14 19.00.55.png)
 

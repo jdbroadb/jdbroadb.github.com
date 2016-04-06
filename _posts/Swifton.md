@@ -1,7 +1,7 @@
-%% Title:  Swifton
-%% Date: 2016-02-23 08:11 PM
-%% Type: Blog
-%% Slug: Swifton
-%% Url:  https://github.com/necolt/Swifton/blob/master/README.md
+---
+ title:  Swifton
+date: 2016-02-23 08:11 PM
+link:  https://github.com/necolt/Swifton/blob/master/README.md
+---
 
-Exciting to see a Swift Web Framework. I'd be timid to jump right in but it's definitely worth watching and see if others start popping up. 
+Exciting to see a Swift Web Framework. I'd be timid to jump right in but it's definitely worth watching and see if others start popping up.

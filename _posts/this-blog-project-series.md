@@ -1,7 +1,8 @@
-%% Title: This Blog Project Series
-%% Date: 2013-03-08 08:36 PM
-%% Type: Blog
-%% Slug: this-blog-project-series
+---
+ title: This Blog Project Series
+date: 2013-03-08 08:36 PM
+category: This-Blog
+---
 
 As I take on new projects I will document my progress and new things I learn as series of blog posts. The first project series will be about this blog [Coherent Iteration](/).
 

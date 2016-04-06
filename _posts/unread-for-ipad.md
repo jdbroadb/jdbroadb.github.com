@@ -1,8 +1,8 @@
-%% Title: Unread for iPad
-%% Date: 2014-06-14 09:55 PM
-%% Type: Blog
-%% Slug: unread-for-ipad
-%% Url: http://blog.jaredsinclair.com/post/88278158000
+---
+ title: Unread for iPad
+date: 2014-06-14 09:55 PM
+link: http://blog.jaredsinclair.com/post/88278158000
+---
 
 [Jared Sinclair](http://blog.jaredsinclair.com/post/88278158000)
 

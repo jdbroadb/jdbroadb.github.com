@@ -1,7 +1,7 @@
-%% Title: Starting Projects
-%% Date: 2014-05-07 04:05 PM
-%% Type: Blog
-%% Slug: starting-projects
+---
+ title: Starting Projects
+date: 2014-05-07 04:05 PM
+---
 
 About two years ago I bought my first shared web hosting and started playing around with websites. Since then I've launched two sites: one "Authority" site that I haven't disclosed and this blog. I spent a bunch of time setting them up and learning Wordpress, but haven't done much with them since.
 

@@ -1,8 +1,8 @@
-%% Title: Ruby Project: Conscious Decision
-%% Date: 2014-05-26 12:35 PM
-%% Type: Blog
-%% Slug: ruby-project-conscious-decisions
-%% Series: Dais
+---
+ title: Ruby Project: Conscious Decision
+date: 2014-05-26 12:35 PM
+category: Dais
+---
 
 If you read my [recent post](/2014/05/20/web-project-ruby-blog/), you may be asking, "Why self-host a VPS"? I could be using a service like [Microsoft Azure](http://azure.microsoft.com/en-us/services/) or  [Heroku](https://www.heroku.com/). That's what smart people like [Brent Simmons](http://inessential.com/2014/03/27/on_running_your_own_servers_and_why_we) is using for Vesper Sync and [Casey Liss](http://www.caseyliss.com/2014/5/1/heroku-first-impressions) used for his recent Node.js blog. I think that's a great question and one I thought about a lot.  This was my final answer.
 

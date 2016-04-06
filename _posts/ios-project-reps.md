@@ -1,8 +1,8 @@
-%% Title: iOS Project: Reps
-%% Date: 2014-05-12 08:32 PM
-%% Type: Blog
-%% Slug: ios-project-reps
-%% Series: Reps
+---
+ title: iOS Project: Reps
+date: 2014-05-12 08:32 PM
+category: Reps
+---
 
 I [recently decided](/2014/05/07/starting-projects/) that I wanted to complete two projects to ramp myself up on both app and web development. I've been coming up with app ideas for the last 4.5 years and so I've really struggled with what iOS app I want to create. I want to make sure it's limited in scope but useful to me (and hopefully others). I've decided to steer away from an app that involved web services but want to be able to incorporate a lot of Apple frameworks and software methodologies.
 

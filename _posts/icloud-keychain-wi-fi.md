@@ -1,7 +1,7 @@
-%% Title: iCloud Keychain Wi-Fi
-%% Date: 2013-12-29 11:57 AM
-%% Type: Blog
-%% Slug: icloud-keychain-wi-fi
+---
+ title: iCloud Keychain Wi-Fi
+date: 2013-12-29 11:57 AM
+---
 
 Did you know that iCloud Keychain also stores all of your known wi-fi networks. It's a feature I hadn't heard about but loved over the holidays.
 

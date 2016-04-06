@@ -1,8 +1,8 @@
-%% Title: Introducing Dais
-%% Date: 2014-07-07 09:55 PM
-%% Type: Blog
-%% Slug: introducing-dais
-%% Series: Dais
+---
+ title: Introducing Dais
+date: 2014-07-07 09:55 PM
+category: Dais
+---
 
 When I [announced](/2014/05/20/web-project-ruby-blog) I was working on a ruby based blogging engine I listed 6 goals for the project. I'm getting ready to move my blog over to using my new blog engine and I'm happy to say I met 5 of the 6 goals.
 

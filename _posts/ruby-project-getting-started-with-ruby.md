@@ -1,8 +1,8 @@
-%% Title: Ruby Project: Getting Started With Ruby
-%% Date: 2014-05-30 11:10 PM
-%% Type: Blog
-%% Slug: ruby-project-getting-started-with-ruby
-%% Series: Dais
+---
+ title: Ruby Project: Getting Started With Ruby
+date: 2014-05-30 11:10 PM
+category: Dais
+---
 
 When starting to learn a new language I always try to find a few solid sources to reference. Typically that includes some websites and a book or two. In my recent[^lastyear] searching I found two books that consistently came up and had great reviews:
 

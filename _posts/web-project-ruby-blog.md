@@ -1,8 +1,8 @@
-%% Title: Web Project: Ruby Blog
-%% Date: 2014-05-20 07:45 PM
-%% Type: Blog
-%% Slug: web-project-ruby-blog
-%% Series: Dais
+---
+ title: Web Project: Ruby Blog
+date: 2014-05-20 07:45 PM
+category: Dais
+---
 
 For the second of my [new projects](/2014/05/07/starting-projects/) I said I wanted to
 

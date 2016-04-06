@@ -1,8 +1,8 @@
-%% Title: Interface Builder with Auto Layout
-%% Date: 2014-05-12 09:14 PM
-%% Type: Blog
-%% Slug: interface-builder-with-auto-layout
-%% Url: http://carpeaqua.com/2014/05/09/why-you-should-use-interface-builder-with-auto-layout/
+---
+ title: Interface Builder with Auto Layout
+date: 2014-05-12 09:14 PM
+link: http://carpeaqua.com/2014/05/09/why-you-should-use-interface-builder-with-auto-layout/
+---
 
 ## [Justin Willams](http://carpeaqua.com/2014/05/09/why-you-should-use-interface-builder-with-auto-layout/)
 

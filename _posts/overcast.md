@@ -1,8 +1,8 @@
-%% Title: Overcast
-%% Date: 2014-07-16 12:31 PM
-%% Type: Blog
-%% Slug: overcast
-%% Url: http://www.marco.org/2014/07/16/overcast
+---
+ title: Overcast
+date: 2014-07-16 12:31 PM
+link: http://www.marco.org/2014/07/16/overcast
+---
 
 I didn't expect to buy [Marco's](http://twitter.com/marcoarment) latest app immediately. I already use Downcast and have been reasonably happy. But the features sold me right away. Shorter listen times and better quality... I had to know if it's true. I already bought it and transferred my subscriptions (which he made very easy). I can't say whether it's better or not yet but I'll certainly write a follow up with my impressions. I've always been impressed with Marco's apps so checkout [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&uo=4&at=10lqks)[^aff]
 

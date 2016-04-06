@@ -1,7 +1,7 @@
-%% Title: Deploying Git Branches as Master
-%% Date: 2015-08-22 11:36 AM
-%% Slug: deploying-git-branches-as-master
-%% Type: Blog
+---
+title: Deploying Git Branches as Master
+date: 2015-08-22 11:36 AM
+---
 
 	git push <remote> <branch>:master
 

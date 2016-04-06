@@ -1,7 +1,7 @@
-%% Title: Life Without Google Reader
-%% Date: 2013-12-21 07:46 PM
-%% Type: Blog
-%% Slug: life-without-google-reader
+---
+ title: Life Without Google Reader
+date: 2013-12-21 07:46 PM
+---
 
 I'm coming to terms with the reality that an alternative to Google Reader must be found, and I am hoping that developers will see this as an opportunity and some great new options will start sprouting up.  I already heard that [David Smith](http://www.david-smith.org) has been planning a new product, [Feed Wrangler](http://www.feedwrangler.net), because there has been a lot of speculation that Google Reader was coming to an end.
 

@@ -1,7 +1,7 @@
-%% Title: iTunes Radio Purchases
-%% Date: 2013-08-14 08:46 PM
-%% Type: Blog
-%% Slug: itunes-radio-purchases
+---
+ title: iTunes Radio Purchases
+date: 2013-08-14 08:46 PM
+---
 
 I've been using iTunes Radio fairly regularly for the last couple weeks with the iOS 7 beta. Overall I've been happy. While it's nothing ground-breaking, performance seems comparable to Pandora and the integration into the Music app is convenient. I'm also an iTunes Match subscriber which means no ads, which I love. It also means **I'll never buy music directly from iTunes Radio**.
 

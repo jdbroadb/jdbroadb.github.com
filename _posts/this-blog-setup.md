@@ -1,7 +1,8 @@
-%% Title: This Blog Setup
-%% Date: 2013-03-12 08:03 PM
-%% Type: Blog
-%% Slug: this-blog-setup
+---
+ title: This Blog Setup
+date: 2013-03-12 08:03 PM
+category: This-Blog
+---
 
 ## Setup
 

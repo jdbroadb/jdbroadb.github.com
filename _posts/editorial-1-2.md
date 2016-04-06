@@ -1,7 +1,7 @@
-%% Title: Editorial 1.2 | MacStories
-%% Date: 2015-06-16 05:30 AM
-%% Slug: editorial-1-2
-%% Type: Blog
-%% Url: http://www.macstories.net/reviews/editorial-1-2-brings-powerful-new-text-editing-features-more-ios-automation/
+---
+ title: Editorial 1.2 | MacStories
+date: 2015-06-16 05:30 AM
+link: http://www.macstories.net/reviews/editorial-1-2-brings-powerful-new-text-editing-features-more-ios-automation/
+---
 
-Sounds like a good update to Editorial. A bit bummed there is no share extension, but I look forward to trying out the other updates. 
+Sounds like a good update to Editorial. A bit bummed there is no share extension, but I look forward to trying out the other updates.

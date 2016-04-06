@@ -1,8 +1,8 @@
-%% Title: Ruby Project: Web Frameworks
-%% Date: 2014-06-06 10:36 AM
-%% Type: Blog
-%% Slug: ruby-project-web-frameworks
-%% Series: Dais
+---
+ title: Ruby Project: Web Frameworks
+date: 2014-06-06 10:36 AM
+category: Dais
+---
 
 As I mentioned a few times, I don't plan to use [Rails](http://rubyonrails.org) for my blogging engine. From everything I've heard Rails is a great framework but it seems to be overkill for my needs, especially since I don't plan to use a database. I just need a simple web app framework, and Rails does not seem simple. Just take a look at the [getting started guide ](http://guides.rubyonrails.org/getting_started.html)(which is ironically setting up a blog).
 

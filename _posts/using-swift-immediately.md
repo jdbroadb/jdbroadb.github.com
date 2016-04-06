@@ -1,8 +1,8 @@
-%% Title: Using Swift Immediately
-%% Date: 2014-06-09 08:12 AM
-%% Type: Blog
-%% Slug: using-swift-immediately
-%% Url: http://inessential.com/2014/06/06/early_thoughts_on_wwdc_2014
+---
+ title: Using Swift Immediately
+date: 2014-06-09 08:12 AM
+link: http://inessential.com/2014/06/06/early_thoughts_on_wwdc_2014
+---
 
 [Brent Simmons](http://inessential.com/2014/06/06/early_thoughts_on_wwdc_2014)
 

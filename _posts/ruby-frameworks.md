@@ -1,8 +1,8 @@
-%% Title: Ruby Frameworks
-%% Date: 2014-11-01 02:00 AM
-%% Type: Blog
-%% Slug: ruby-frameworks
-%% Series: Secret
+---
+ title: Ruby Frameworks
+date: 2014-11-01 02:00 AM
+category: Secret
+---
 
 When I started writing Ruby late last year the only framework I knew of was [Rails](http://rubyonrails.org/). In my head Ruby and Rails were practically synonymous. But as I got into Ruby and started to work on [Dais](http://www.coherentiterations.com/series/dais) I quickly learned that Rails wasn't the only game in town.
 

@@ -1,8 +1,8 @@
-%% Title: The Stream
-%% Date: 2013-12-23 12:00 PM
-%% Type: Blog
-%% Slug: the-stream
-%% Url: http://www.theatlantic.com/technology/archive/2013/12/2013-the-year-the-stream-crested/282202/
+---
+ title: The Stream
+date: 2013-12-23 12:00 PM
+link: http://www.theatlantic.com/technology/archive/2013/12/2013-the-year-the-stream-crested/282202/
+---
 
 ## [2013: The Year 'the Stream' Crested](http://www.theatlantic.com/technology/archive/2013/12/2013-the-year-the-stream-crested/282202/)
 

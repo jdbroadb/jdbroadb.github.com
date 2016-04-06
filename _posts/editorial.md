@@ -1,8 +1,8 @@
-%% Title: Editorial
-%% Date: 2014-05-12 08:57 PM
-%% Type: Blog
-%% Slug: editorial
-%% Url: http://omz-software.com/editorial/
+---
+ title: Editorial
+date: 2014-05-12 08:57 PM
+link: http://omz-software.com/editorial/
+---
 
 ## [Editorial](http://omz-software.com/editorial/)
 

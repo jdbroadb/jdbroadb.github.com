@@ -1,8 +1,8 @@
-%% Title: Dais Dropbox Syncing
-%% Date: 2014-09-04 09:20 AM
-%% Type: Blog
-%% Slug: dais-dropbox-syncing
-%% Series: Dais
+---
+title: Dais Dropbox Syncing
+date: 2014-09-04 09:20 AM
+categories: Dais
+---
 
 When I decided to try out Heroku I quickly learned that the only access to the file system is through Git pushes of your application. That works great for the actual Ruby code but it very limiting for content. So I decided to sync Dais with my Dropbox account. It was a logical choice because I already store and access all my posts in Dropbox through Editorial on my iOS devices.
 

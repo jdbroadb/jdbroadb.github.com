@@ -1,7 +1,7 @@
-%% Title: Future of Touch ID
-%% Date: 2013-09-22 07:53 PM
-%% Type: Blog
-%% Slug: future-of-touch-id
+---
+ title: Future of Touch ID
+date: 2013-09-22 07:53 PM
+---
 
 ![Touch ID](../Images/touchid.png)
 

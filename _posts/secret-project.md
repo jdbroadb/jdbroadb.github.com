@@ -1,8 +1,8 @@
-%% Title: Secret Project
-%% Date: 2014-09-05 09:26 AM
-%% Type: Blog
-%% Slug: secret-project
-%% Series: Secret
+---
+ title: Secret Project
+date: 2014-09-05 09:26 AM
+category: Secret
+---
 
 A couple months ago I deployed[^1] [Dais](http://www.coherentiterations.com/2014/07/07/introducing-dais), my Ruby blogging engine based on the [Sinatra](http://www.sinatrarb.com/) framework.  This was half of my goals when I [started projects](http://www.coherentiterations.com/2014/05/07/starting-projects) back in May. I also had planned to deliver an [iOS application](http://www.coherentiterations.com/2014/05/12/ios-project-reps). After finishing Dais I was extremely excited about Ruby and my larger secret project so instead of working on Reps I've spent my time learning more Ruby and reading the [Rails Tutorial](https://www.railstutorial.org/book).
 

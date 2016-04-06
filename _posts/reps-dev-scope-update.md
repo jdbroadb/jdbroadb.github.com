@@ -1,8 +1,8 @@
-%% Title: Reps: Dev Scope Update
-%% Date: 2014-06-06 10:32 AM
-%% Type: Blog
-%% Slug: reps-dev-scope-update
-%% Series: Reps
+---
+ title: Reps: Dev Scope Update
+date: 2014-06-06 10:32 AM
+category: Reps
+---
 
 WWDC was this week and Apple had A LOT of big announcements for developers. Because of the announcements I've decided to add two more items to my [Reps development scope](/2014/05/12/ios-project-reps/):
 

@@ -1,8 +1,8 @@
-%% Title: Family Sharing
-%% Date: 2015-01-03 8:52 PM
-%% Slug: family-sharing
-%% Type: Blog
-%% Url: http://shawnblanc.net/2015/01/quitting-family-sharing/
+---
+ title: Family Sharing
+date: 2015-01-03 8:52 PM
+link: http://shawnblanc.net/2015/01/quitting-family-sharing/
+---
 
 > There are just 3 iOS devices in the Blanc family: my iPhone, my wife’s iPhone, and my iPad. They’re signed in with the same Apple ID for the store, and with our own Apple ID for email and calendar. It works great… for now.
 

@@ -1,8 +1,8 @@
-%% Title: Google Reader Dead
-%% Date: 2013-03-18 06:41 PM
-%% Type: Blog
-%% Slug: google-reader-dead
-%% Url: http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html
+---
+ title: Google Reader Dead
+date: 2013-03-18 06:41 PM
+link: http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html
+---
 
 <p><a href="http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html">http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html</a></p>
 

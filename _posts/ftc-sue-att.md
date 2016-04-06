@@ -1,8 +1,8 @@
-%% Title: The FTC is suing AT&T for throttling its unlimited data customers
-%% Date: 2014-10-30 06:00 AM
-%% Type: Blog
-%% Slug: ftc-sue-att
-%% Url: http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/28/the-ftc-is-suing-att-for-throttling-its-unlimited-data-customers/
+---
+ title: The FTC is suing AT&T for throttling its unlimited data customers
+date: 2014-10-30 06:00 AM
+link: http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/28/the-ftc-is-suing-att-for-throttling-its-unlimited-data-customers/
+---
 
 > “AT&T promised its customers ‘unlimited’ data, and in many instances, it has failed to deliver on that promise,” said Ramirez in a statement. “The issue here is simple: ‘unlimited’ means unlimited.”
 

@@ -1,7 +1,7 @@
-%% Title: Email Notifications on iOS
-%% Date: 2013-12-21 06:15 PM
-%% Type: Blog
-%% Slug: email-notifications
+---
+ title: Email Notifications on iOS
+date: 2013-12-21 06:15 PM
+---
 
 I've been struggling with how to set up email notifications on iOS. I use [Mailbox](https://itunes.apple.com/us/app/mailbox/id576502633?mt=8&at=10lqks) as my primary email client with a Gmail account. I like receiving notifications on **select** emails so I can take care of them quickly. But it's important that I don't get notifications for all my email cause that's just overwhelming.
 
