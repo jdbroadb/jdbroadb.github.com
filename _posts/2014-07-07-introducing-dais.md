@@ -1,5 +1,5 @@
 ---
- title: Introducing Dais
+title: Introducing Dais
 date: 2014-07-07 09:55 PM
 category: Dais
 ---
