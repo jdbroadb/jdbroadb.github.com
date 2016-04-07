@@ -1,5 +1,5 @@
 ---
- title: DuckDuckGo Bangs
+title: DuckDuckGo Bangs
 date: 2015-06-27 06:53 PM
 ---
 
