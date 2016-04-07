@@ -1,5 +1,5 @@
 ---
- title: iOS Project: Reps
+title: iOS Project: Reps
 date: 2014-05-12 08:32 PM
 category: Reps
 ---
