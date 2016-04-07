@@ -1,5 +1,5 @@
 ---
-title: Re: Pinboard vs IFTTT
+title: Re - Pinboard vs IFTTT
 date: 2016-03-31 07:22 PM
 ---
 
