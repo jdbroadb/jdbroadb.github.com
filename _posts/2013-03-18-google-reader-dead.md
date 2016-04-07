@@ -1,5 +1,5 @@
 ---
- title: Google Reader Dead
+title: Google Reader Dead
 date: 2013-03-18 06:41 PM
 link: http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html
 ---
