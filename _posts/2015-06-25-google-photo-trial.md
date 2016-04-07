@@ -1,5 +1,5 @@
 ---
- title: Google Photos Trial
+title: Google Photos Trial
 date: 2015-06-25 09:41 PM
 category: Google Photos
 ---
