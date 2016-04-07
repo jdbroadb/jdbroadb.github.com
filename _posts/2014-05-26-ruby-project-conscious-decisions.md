@@ -1,5 +1,5 @@
 ---
-title: Ruby Project: Conscious Decision
+title: Ruby Project - Conscious Decision
 date: 2014-05-26 12:35 PM
 category: Dais
 ---
