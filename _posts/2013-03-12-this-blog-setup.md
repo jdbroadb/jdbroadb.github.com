@@ -1,5 +1,5 @@
 ---
- title: This Blog Setup
+title: This Blog Setup
 date: 2013-03-12 08:03 PM
 category: This-Blog
 ---
