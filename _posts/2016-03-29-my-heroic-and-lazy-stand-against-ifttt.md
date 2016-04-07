@@ -1,5 +1,5 @@
 ---
- title:  My Heroic and Lazy Stand Against IFTTT (Pinboard Blog)
+title:  My Heroic and Lazy Stand Against IFTTT (Pinboard Blog)
 date: 2016-03-29 10:27 AM
 link:  https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/
 ---
