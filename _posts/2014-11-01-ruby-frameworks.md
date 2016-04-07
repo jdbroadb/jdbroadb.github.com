@@ -1,5 +1,5 @@
 ---
- title: Ruby Frameworks
+title: Ruby Frameworks
 date: 2014-11-01 02:00 AM
 category: Secret
 ---
