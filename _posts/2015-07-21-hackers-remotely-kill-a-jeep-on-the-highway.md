@@ -1,5 +1,5 @@
 ---
- title:  Hackers Remotely Kill a Jeep on the Highway | Wired
+title:  Hackers Remotely Kill a Jeep on the Highway | Wired
 date: 2015-07-21 09:23 PM
 link:  http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/
 ---
