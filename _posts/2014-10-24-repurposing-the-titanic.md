@@ -1,5 +1,5 @@
 ---
- title: Repurposing the Titanic
+title: Repurposing the Titanic
 date: 2014-10-24 11:43 PM
 link: http://carpeaqua.com/2014/10/24/repurposing-the-titanic/
 ---
