@@ -1,9 +1,0 @@
----
- title: Overcast 2.0
-date: 2015-10-09 09:53 PM
-link: http://www.marco.org/2015/10/09/overcast2
----
-
-By far my favorite podcast player and this looks like a fantastic update.
-
-And it's now free for everyone.
