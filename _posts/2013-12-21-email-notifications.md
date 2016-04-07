@@ -1,5 +1,5 @@
 ---
- title: Email Notifications on iOS
+title: Email Notifications on iOS
 date: 2013-12-21 06:15 PM
 ---
 
