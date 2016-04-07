@@ -1,5 +1,5 @@
 ---
- title: Gruber's on 3D Touch
+title: Gruber's on 3D Touch
 date: 2015-09-26 10:41 AM
 link: http://daringfireball.net/2015/09/the_iphones_6s
 ---
