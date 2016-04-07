@@ -1,5 +1,5 @@
 ---
- title: Moving from Heroku to OpenShift
+title: Moving from Heroku to OpenShift
 date: 2015-08-25 06:48 PM
 category: Dais
 ---
