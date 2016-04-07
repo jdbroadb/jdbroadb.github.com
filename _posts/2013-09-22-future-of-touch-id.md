@@ -1,5 +1,5 @@
 ---
- title: Future of Touch ID
+title: Future of Touch ID
 date: 2013-09-22 07:53 PM
 ---
 
