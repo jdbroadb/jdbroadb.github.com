@@ -1,5 +1,5 @@
 ---
- title: Editorial 1.1 Update
+title: Editorial 1.1 Update
 date: 2014-05-30 05:07 PM
 link: https://itunes.apple.com/us/app/editorial/id673907758?mt=8&uo=4&at=10lqks&at=10lqks
 ---
