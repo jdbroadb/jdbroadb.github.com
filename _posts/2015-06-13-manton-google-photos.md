@@ -1,5 +1,5 @@
 ---
- title: Google Photos | Manton Reece
+title: Google Photos | Manton Reece
 date: 2015-06-13 03:31 PM
 link: http://www.manton.org/2015/06/google-photos.html
 ---
