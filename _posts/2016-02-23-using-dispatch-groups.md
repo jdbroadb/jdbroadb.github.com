@@ -1,5 +1,5 @@
 ---
- title:  Using dispatch groups to wait for multiple web services
+title:  Using dispatch groups to wait for multiple web services
 date: 2016-02-23 08:14 PM
 link:  http://commandshift.co.uk/blog/2014/03/19/using-dispatch-groups-to-wait-for-multiple-web-services/
 ---
