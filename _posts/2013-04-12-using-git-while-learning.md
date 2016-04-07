@@ -5,7 +5,7 @@ date: 2013-04-12 11:59 AM
 
 Over the past few months I've been working my way through Big Nerd Ranch's books on [Objective-C](http://www.amazon.com/gp/product/0321706285/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321706285&linkCode=as2&tag=cohereiterat-20) <[AL](/affiliate-disclaimer)> and [iOS Development](http://www.amazon.com/gp/product/0321821521/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321821521&linkCode=as2&tag=cohereiterat-20) <[AL](/affiliate-disclaimer)>. Early on I noticed the checkbox for "Create local git repository for this project" but gave it little thought. But the more I've learned the more thought I've been giving it and I've started working Git into my normal workflow.
 
-![Xcode Git Option](../Images/xcode-git-option.png)
+![Xcode Git Option](/images/xcode-git-option.png)
 
 ## Source Control
 I'm not new to the idea of source control. In my day-job I use Clearcase on a daily basis. It's cumbersome and has a lot of overhead. But the more I've learned about [Git](http://en.wikipedia.org/wiki/Git_(software)), the more I've seen the difference. Git is a distributed source control tool, which means that any directory can be its own version repository without the need for a central server.

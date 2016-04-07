@@ -3,7 +3,7 @@ title: Future of Touch ID
 date: 2013-09-22 07:53 PM
 ---
 
-![Touch ID](../Images/touchid.png)
+![Touch ID](/images/touchid.png)
 
 I ordered a new iPhone 5s on Friday which I expect to receive on Monday. One of the features I'm really excited about is Touch ID. I've always used a 4 digit pass code because I hate unlocking my phone but want to be somewhat security conscious. So the idea of quickly unlocking my phone based on my fingerprint sounds awesome. And from everything I've read ([Gruber](http://daringfireball.net/2013/09/the_iphone_5s_and_5c), [Dalrymple](http://www.loopinsight.com/2013/09/17/review-iphone-5c-and-iphone-5s/)) it works really well. But what really excites me is the future possibilities.
 

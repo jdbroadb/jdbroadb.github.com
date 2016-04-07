@@ -8,7 +8,7 @@ link: http://omz-software.com/editorial/
 
 > Editorial is a plain text editor for the iPad with powerful automation tools and a beautiful inline preview for writing Markdown.
 
-![Editorial Screenshot 1](../Images/editorialScreenshot1.jpg)
+![Editorial Screenshot 1/images/editorialScreenshot1.jpg)
 
 I recently purchased [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8&uo=4&at=10lqks&at=10lqks)[^aflink] for my iPad and it's opened a whole new world of writing and posting from my iPad.
 

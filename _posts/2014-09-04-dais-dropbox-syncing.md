@@ -32,7 +32,7 @@ That's all it took to start syncing content.
 
 Now it also required some setup from my Dropbox account. Go to the [Dropbox developer app site](https://www.dropbox.com/developers/apps) to setup a new app with your account.
 
-![Dropbox access token](../Images/dropbox-access-token.jpg)
+![Dropbox access token](/images/dropbox-access-token.jpg)
 
 Dropbox provides a personal authentication token that you can use when only needing to access your own account. Just push the "Generate access token" button. This is incredibly handy for a project like this so I can avoid performing an Oauth cycle. I simply enabled the option in my account and copied the token into my application.
 
