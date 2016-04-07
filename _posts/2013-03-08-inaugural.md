@@ -1,5 +1,5 @@
 ---
- title: Inaugural
+title: Inaugural
 date: 2013-03-08 07:55 PM
 ---
 
