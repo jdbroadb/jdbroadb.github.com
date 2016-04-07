@@ -1,5 +1,5 @@
 ---
- title: Family Sharing
+title: Family Sharing
 date: 2015-01-03 8:52 PM
 link: http://shawnblanc.net/2015/01/quitting-family-sharing/
 ---
