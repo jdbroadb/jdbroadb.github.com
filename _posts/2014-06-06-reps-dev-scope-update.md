@@ -1,5 +1,5 @@
 ---
- title: Reps: Dev Scope Update
+title: Reps: Dev Scope Update
 date: 2014-06-06 10:32 AM
 category: Reps
 ---
