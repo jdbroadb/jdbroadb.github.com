@@ -1,5 +1,5 @@
 ---
- title:  When a Unicorn Start-Up Stumbles, Its Employees Get Hurt
+title:  When a Unicorn Start-Up Stumbles, Its Employees Get Hurt
 date: 2015-12-24 09:26 AM
 link:  http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html?_r=0
 ---
