@@ -1,5 +1,5 @@
 ---
- title: The Stream
+title: The Stream
 date: 2013-12-23 12:00 PM
 link: http://www.theatlantic.com/technology/archive/2013/12/2013-the-year-the-stream-crested/282202/
 ---
