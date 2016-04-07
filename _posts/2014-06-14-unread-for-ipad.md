@@ -1,5 +1,5 @@
 ---
- title: Unread for iPad
+title: Unread for iPad
 date: 2014-06-14 09:55 PM
 link: http://blog.jaredsinclair.com/post/88278158000
 ---
