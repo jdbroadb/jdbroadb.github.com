@@ -1,5 +1,5 @@
 ---
- title: Life Without Google Reader
+title: Life Without Google Reader
 date: 2013-12-21 07:46 PM
 ---
 
