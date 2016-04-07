@@ -1,5 +1,5 @@
 ---
-title: Ruby Project: Getting Started With Ruby
+title: Ruby Project - Getting Started With Ruby
 date: 2014-05-30 11:10 PM
 category: Dais
 ---
