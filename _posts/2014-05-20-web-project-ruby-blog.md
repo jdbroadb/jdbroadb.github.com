@@ -1,5 +1,5 @@
 ---
- title: Web Project: Ruby Blog
+title: Web Project: Ruby Blog
 date: 2014-05-20 07:45 PM
 category: Dais
 ---
