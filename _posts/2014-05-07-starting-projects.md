@@ -1,5 +1,5 @@
 ---
- title: Starting Projects
+title: Starting Projects
 date: 2014-05-07 04:05 PM
 ---
 
