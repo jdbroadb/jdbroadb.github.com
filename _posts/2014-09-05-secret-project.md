@@ -1,5 +1,5 @@
 ---
- title: Secret Project
+title: Secret Project
 date: 2014-09-05 09:26 AM
 category: Secret
 ---
