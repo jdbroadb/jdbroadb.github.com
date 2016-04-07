@@ -1,5 +1,5 @@
 ---
- title: Google Photos Wishlist
+title: Google Photos Wishlist
 date: 2015-06-28 07:04 AM
 category: Google Photos
 ---
