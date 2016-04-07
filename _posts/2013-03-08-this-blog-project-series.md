@@ -1,5 +1,5 @@
 ---
- title: This Blog Project Series
+title: This Blog Project Series
 date: 2013-03-08 08:36 PM
 category: This-Blog
 ---
