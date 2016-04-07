@@ -1,5 +1,5 @@
 ---
- title: Podcasts Updated
+title: Podcasts Updated
 date: 2014-05-20 08:35 PM
 link: http://www.macstories.net/news/podcasts-for-ios-updated-with-siri-integration-improved-show-notes-support-and-more
 ---
