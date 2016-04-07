@@ -1,5 +1,5 @@
 ---
-title:  Let It Go: Late Initialization of Let in Swift
+title:  Let It Go - Late Initialization of Let in Swift
 date: 2015-08-09 10:23 AM
 link:  http://natashatherobot.com/late-initialization-of-let-in-swift/
 ---
