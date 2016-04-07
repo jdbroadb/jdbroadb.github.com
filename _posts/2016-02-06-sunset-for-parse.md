@@ -1,5 +1,5 @@
 ---
- title:  Sunset for Parse
+title:  Sunset for Parse
 date: 2016-02-06 08:15 AM
 link:  http://www.dysonapps.com/blog/2016/2/2/sunset-for-parse
 ---
