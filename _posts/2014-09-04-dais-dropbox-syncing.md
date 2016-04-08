@@ -10,7 +10,7 @@ When I decided to try out Heroku I quickly learned that the only access to the f
 
 I had never used the Dropbox API so I wasn't sure how complicated it would be. Thankfully they have a Ruby SDK that made the process extremely simple.
 
-{% highlight ruby %}
+```ruby
 require 'dropbox_sdk'
 
 ACCESS_TOKEN = #Get from Dropbox App settings
@@ -26,7 +26,7 @@ dropbox = DropboxClient.new(ACCESS_TOKEN)
 
 # Grab changes
 db_data = dropbox.delta(@db_cursor, @posts_dir)
-{% endhighlight %}
+```
 
 That's all it took to start syncing content.
 
