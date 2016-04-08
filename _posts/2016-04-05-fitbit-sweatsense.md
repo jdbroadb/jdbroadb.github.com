@@ -10,4 +10,4 @@ Fitbit Blog:
 
 This sounds terrible. I would think if you want this feature, which seems questionable, that you would at least want the indicator to be discrete. And based in the description it sounds automatic. So every time you itch your armpit everyone gets to find out if you smell bad?!
 
-Update: Don't read the Internet on April 1st. 
+Update: Don't read the internet on April 1st. 
