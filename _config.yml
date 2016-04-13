@@ -11,7 +11,7 @@ email: john@coherentiterations.com
 description: > # this means to ignore newlines until "baseurl:"
   This is Coherent Iterations, where I'm documenting my journey to become an iOS and Web Developer. My name is John. I am a full-time engineer and an aspiring developer in my free time.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jdbroadb.github.io" # the base hostname & protocol for your site
+url: "http://www.coherentiterations.com" # the base hostname & protocol for your site
 twitter_username: jdbroadb
 github_username:  jdbroadb
 
