@@ -17,7 +17,7 @@ permalink: /rss-short/
       {% if count == 20 %}
         {% break %}
       {% endif %}
-      {% unless post.title %}
+      {% unless post.title or post.link %}
         {% assign count = count + 1 %}
       <item>
         {% assign url = {{ post.link }} %}
@@ -27,7 +27,7 @@ permalink: /rss-short/
           {% if post.link %}
             {{ post.description | xml_escape }}
             {{ permalink1 | xml_escape }} {{ url | xml_escape }} {{ permalink2 | xml_escape }}
-          {% else %
+          {% else %}
             {{ post.content | xml_escape }}}
           {% endif %}
         </description>
