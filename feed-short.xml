@@ -14,7 +14,7 @@ permalink: /rss-short/
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign count = 0 %}
     {% for post in site.posts %}
-      {% if count = 20 %}
+      {% if count == 20 %}
         {% break %}
       {% endif %}
       {% unless post.title or post.link %}
