@@ -46,6 +46,7 @@ permalink: /rss-short/
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
       </item>
+      {% endunless %}
     {% endfor %}
   </channel>
 </rss>
