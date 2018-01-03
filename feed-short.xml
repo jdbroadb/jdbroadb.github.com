@@ -29,7 +29,6 @@ permalink: /rss-short/
       <item>
         <description>
           {% if post.link %}
-            {% assign url = {{ post.link }} %}
             {% assign permalink1 = '<div><a href=' %}
             {% assign permalink2 = '></a></div>'  %}
             {% if post.description %}
@@ -37,7 +36,7 @@ permalink: /rss-short/
             {% else %}
               {{ post.title | xml_escape }}
             {% endif %}
-            {{ permalink1 | xml_escape }} {{ post.link }} {{ permalink2 | xml_escape }}
+            {{ permalink1 | xml_escape }} {{ post.link | xml_escape }} {{ permalink2 | xml_escape }}
           {% else %}
             {{ post.content | xml_escape }}}
           {% endif %}
