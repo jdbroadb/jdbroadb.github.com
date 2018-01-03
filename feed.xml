@@ -12,33 +12,40 @@ permalink: /rss/
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% assign url = {{ post.url | prepend: site.baseurl | prepend: site.url }} %}
-        {% assign permalink1 = '<div><a href=' %}
-        {% assign permalink2 = '>Permalink</a></div>'  %}
-        <description>
-          {{ post.content | xml_escape }}
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+      {% if count == 10 %}
+        {% break %}
+      {% endif %}
+      {% if post.title %}
+        {% assign count = count + 1 %}
+        <item>
+          <title>{{ post.title | xml_escape }}</title>
+          {% assign url = {{ post.url | prepend: site.baseurl | prepend: site.url }} %}
+          {% assign permalink1 = '<div><a href=' %}
+          {% assign permalink2 = '>Permalink</a></div>'  %}
+          <description>
+            {{ post.content | xml_escape }}
+            {% if post.link %}
+              {{ permalink1 | xml_escape }} {{ url | xml_escape }} {{ permalink2 | xml_escape }}
+            {% endif %}
+          </description>
+          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           {% if post.link %}
-            {{ permalink1 | xml_escape }} {{ url | xml_escape }} {{ permalink2 | xml_escape }}
+            <link>{{ post.link }}</link>
+            <guid isPermaLink="true">{{ post.link }}</guid>
+          {% else %}
+            <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+            <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
           {% endif %}
-        </description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        {% if post.link %}
-          <link>{{ post.link }}</link>
-          <guid isPermaLink="true">{{ post.link }}</guid>
-        {% else %}
-          <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% endif %}
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
+          {% for tag in post.tags %}
+          <category>{{ tag | xml_escape }}</category>
+          {% endfor %}
+          {% for cat in post.categories %}
+          <category>{{ cat | xml_escape }}</category>
+          {% endfor %}
+        </item>
+      {% endif %}
     {% endfor %}
   </channel>
 </rss>
