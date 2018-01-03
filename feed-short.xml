@@ -27,12 +27,16 @@ permalink: /rss-short/
       {% if include_post == true %}
         {% assign count = count + 1 %}
       <item>
-        {% assign url = {{ post.link }} %}
-        {% assign permalink1 = '<div><a href=' %}
-        {% assign permalink2 = '></a></div>'  %}
         <description>
           {% if post.link %}
-            {{ post.description | xml_escape }}
+            {% assign url = {{ post.link }} %}
+            {% assign permalink1 = '<div><a href=' %}
+            {% assign permalink2 = '></a></div>'  %}
+            {% if post.description %}
+              {{ post.description | xml_escape }}
+            {% else %}
+              {{ post.title | xml_escape }}
+            {% endif %}
             {{ permalink1 | xml_escape }} {{ url | xml_escape }} {{ permalink2 | xml_escape }}
           {% else %}
             {{ post.content | xml_escape }}}
