@@ -17,14 +17,14 @@ permalink: /rss-short/
       {% if count == 20 %}
         {% break %}
       {% endif %}
-      {% assign include_post = false %}
+      {% assign include_post = 0 %}
       {% if post.link %}
-        {% assign include_post = true %}
+        {% assign include_post = 1 %}
       {% endif %}
       {% unless post.title %}
-        {% assign include_post = true %}
+        {% assign include_post = 1 %}
       {% endif %}
-      {% if include_post %}
+      {% if include_post == 1 %}
         {% assign count = count + 1 %}
       <item>
         {% assign url = {{ post.link }} %}
