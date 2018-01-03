@@ -31,7 +31,7 @@ permalink: /rss-short/
           {% if post.link %}
             {% assign permalink1 = '<div><a href=' %}
             {% assign permalink2 = '></a></div>'  %}
-            {% if post.description %}
+            {% if post.description and post.description.size < 280 %}
               {{ post.description | xml_escape }}
             {% else %}
               {{ post.title | xml_escape }}
