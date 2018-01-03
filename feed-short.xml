@@ -37,7 +37,7 @@ permalink: /rss-short/
             {% else %}
               {{ post.title | xml_escape }}
             {% endif %}
-            {{ permalink1 | xml_escape }} {{ url }} {{ permalink2 | xml_escape }}
+            {{ permalink1 | xml_escape }} {{ post.link }} {{ permalink2 | xml_escape }}
           {% else %}
             {{ post.content | xml_escape }}}
           {% endif %}
