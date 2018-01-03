@@ -18,7 +18,7 @@ permalink: /rss-short/
         {% break %}
       {% endif %}
       {% assign include_post = false %}
-      
+
       {% if include_post == true %}
         {% assign count = count + 1 %}
       <item>
@@ -48,7 +48,7 @@ permalink: /rss-short/
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
       </item>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
   </channel>
 </rss>
