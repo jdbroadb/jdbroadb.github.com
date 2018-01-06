@@ -32,7 +32,7 @@ permalink: /rss/
           </description>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           {% if post.link %}
-            <link>{{ post.link }}</link>
+            <link>{{ post.link | xml_escape }}</link>
             <guid isPermaLink="true">{{ post.link | xml_escape }}</guid>
           {% else %}
             <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
